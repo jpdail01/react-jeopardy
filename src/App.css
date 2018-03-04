@@ -1,0 +1,17 @@
+.square {
+  font-size: xx-large;
+  text-align: center;
+  color: white;
+  border: 1;
+  border-radius: 1em;
+  background-color: blue;
+  min-width: 200px;
+  max-width: 400px;
+  min-height: 200px;
+  max-height: 400px;
+  vertical-align: middle;
+}
+
+.App {
+  align-content: center;
+}
