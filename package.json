@@ -8,7 +8,7 @@
     "react-dom": "^16.2.0",
     "react-scripts-ts": "2.13.0"
   },
-  "homepage": "https://jpdail01.github.io/react-jeopardy",
+  "homepage": "http://epic-carson-2417c2.netlify.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
